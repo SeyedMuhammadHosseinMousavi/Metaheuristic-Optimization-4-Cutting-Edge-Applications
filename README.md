@@ -12,3 +12,17 @@ By the end of this course, you will have both the theoretical foundation and the
 ##### Link to the Course 2: https://youtu.be/jkhVSXRUqcQ
 
 ![Course Image Optimization](https://github.com/user-attachments/assets/ea1cafa1-a2b8-439d-af74-980376514a17)
+
+#### Section One : Section One - Basics of Optimization
+
+<p align="justify">
+In this foundational section, students will gain a clear understanding of the basics of optimization, including its definitions, importance, and core principles. We explore why optimization is essential across various fields, how it helps improve efficiency, reduce costs, and enhance performance, and what makes it a critical part of intelligent systems. Learners will be introduced to key concepts such as objective functions, critical points, local and global optima, convergence, and the balance between exploration and exploitation. The section also covers some metaheuristic algorithms, along with intuitive examples of how they work. Finally, students will learn about benchmark test functions used to evaluate optimization performance, setting the stage for deeper algorithmic exploration in future sections.
+</p>
+
+#### Section Two - Protein Folding by Differential Evolution Algorithm
+
+<p align="justify">
+In this lecture, you’ll simulate protein folding using the Differential Evolution (DE) algorithm. You’ll learn how to represent proteins as amino acid chains in 3D space and optimize their positions to minimize total energy. By the end, you’ll be able to predict stable protein structures computationally and understand how misfolding can lead to diseases like Alzheimer’s and Parkinson’s.
+</p>
+
+
