@@ -1,0 +1,19 @@
+Write a one-page explanation (200–300 words) comparing at least three types of optimization algorithms (e.g., Gradient-Based, Gradient-Free, Metaheuristics).
+
+Assignment Instructions
+Instructions:
+Write a one-page explanation (200–300 words) comparing at least three types of optimization algorithms (e.g., Gradient-Based, Gradient-Free, Metaheuristics).
+
+For each, describe:
+How it works conceptually
+One real-world example of its use
+Whether it relies on derivatives or not
+Submission Format: Text entry or PDF upload
+Evaluation: Based on clarity, correctness, and examples provided.
+
+Q1. In your own words, explain what an optimization algorithm does and why it is important in artificial intelligence and engineering.
+
+Q2. Describe a Gradient-Based optimization algorithm and give one example of where it is commonly used.
+
+Q3. What are Metaheuristic algorithms, and why are they often used for complex or real-world problems?
+
