@@ -1,0 +1,24 @@
+Visualize and Compare Random Protein Structures
+
+Simulate and compare the energy of two random 3D protein structures, each with 10 amino acids. Visualize both, compute their energy, and explain which one is more stable.
+
+Assignment Instructions
+1. Write a function to generate a list of 10 random 3D positions for amino acids.
+2. Use your energy function from the coding exercise to compute total energy.
+3. Generate two different random structures, and compute energy for each.
+4. Compare their energies and print which one is more stable (lower energy).
+
+(Optional for offline users): Visualize both structures using text (index + coordinates) or use your local Python with matplotlib.
+
+Deliverables:
+Code that:
+Generates random 3D positions
+Computes energy
+Compares two structures
+Printed output showing:
+Energy values for both structures
+Which one is more stable
+
+Q1. After comparing the energies of your two random protein structures, which one was more stable, and why?
+
+Q2. How does adjusting amino acid positions affect the total energy, and what does this tell you about protein folding in nature?
