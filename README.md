@@ -49,6 +49,10 @@ By the end of this section, students will understand how living organisms adapt 
   <img src="https://github.com/user-attachments/assets/59eba43a-d528-4aff-8180-b97aa4c298a7" alt="Exoplanet by FA" style="width:50%; height:auto;">
 </p>
 
+<p align="justify">
+This section explains how optimization algorithms can be applied to a real engineering problem: automatically shaping antennas to achieve high efficiency, minimal material use, and smooth geometry. Students learn how PSO mimics the collective intelligence of swarms to explore complex 3D design spaces that are difficult to optimize analytically. The section connects mathematical formulation with real implementation, showing how total length and bending smoothness can be combined into a single objective function and minimized iteratively through PSO. After completing this section, students will understand how to formulate and solve antenna design problems using metaheuristic methods, interpret convergence behavior, visualize optimized 3D geometries, and appreciate the power of swarm-based algorithms in electromagnetic and structural design optimization.
+</p>
+
 ![5  evolved antenna pso](https://github.com/user-attachments/assets/53b97c93-e71e-40a1-82b0-4c7596e438a2)
 
 
