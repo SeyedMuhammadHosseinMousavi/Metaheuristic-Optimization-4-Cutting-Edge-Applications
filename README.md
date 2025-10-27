@@ -25,11 +25,9 @@ In this foundational section, students will gain a clear understanding of the ba
 In this lecture, you’ll simulate protein folding using the Differential Evolution (DE) algorithm. You’ll learn how to represent proteins as amino acid chains in 3D space and optimize their positions to minimize total energy. By the end, you’ll be able to predict stable protein structures computationally and understand how misfolding can lead to diseases like Alzheimer’s and Parkinson’s.
 </p>
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d486bc04-99c5-4a81-a389-06f820d6c677" alt="Protein Folding" style="width:50%; height:auto;">
 </p>
-
 
 #### Section Three - Space-Time Warping by Firefly Algorithm (FA)
 
@@ -37,10 +35,26 @@ In this lecture, you’ll simulate protein folding using the Differential Evolut
 In this section, you’ll explore how the Firefly Algorithm (FA) can be used to solve a physics-inspired optimization problem based on space-time warping. You’ll learn how concepts such as curvature, bending effort, warp fields, and geodesics can be translated into a mathematical objective function that guides fireflies to find the most energy-efficient path through a distorted space. By simulating this warped environment, each firefly represents a potential solution that evolves over time using brightness-based attraction, distance decay, and controlled randomness. The algorithm works to minimize a total energy cost that includes warped distance, curvature penalties, traversal effort, and warp-field maintenance, ultimately finding a smooth, optimal path between two points. This section combines physical intuition with computational intelligence, showing how bio-inspired algorithms can solve problems modeled after the curvature and dynamics of space-time.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffb3ce05-81ef-4cdf-b36f-838192e0f433" alt="Space-Time Bending" style="width:50%; height:auto;">
+</p>
+
 #### Section Four - Exoplanetary Adaptation Simulation by Genetic Algorithm (GA)
 
 <p align="justify">
 By the end of this section, students will understand how living organisms adapt to diverse exoplanetary environments. They will be able to explain how planetary factors like gravity, radiation, temperature, and atmosphere affect survival traits, and how these traits interact to determine overall fitness. Students will also learn to interpret and analyze adaptation outcomes, comparing evolved traits with environmental requirements to identify successful or failed survival strategies.
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59eba43a-d528-4aff-8180-b97aa4c298a7" alt="Exoplanet by FA" style="width:50%; height:auto;">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d259d063-a3b0-400c-974e-bdce4826cfe4" alt="Evolved Antenna PSO" style="width:50%; height:auto;">
+</p>
+
 
 
