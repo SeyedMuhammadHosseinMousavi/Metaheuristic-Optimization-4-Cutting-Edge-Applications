@@ -45,9 +45,8 @@ In this section, you’ll explore how the Firefly Algorithm (FA) can be used to 
 By the end of this section, students will understand how living organisms adapt to diverse exoplanetary environments. They will be able to explain how planetary factors like gravity, radiation, temperature, and atmosphere affect survival traits, and how these traits interact to determine overall fitness. Students will also learn to interpret and analyze adaptation outcomes, comparing evolved traits with environmental requirements to identify successful or failed survival strategies.
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/59eba43a-d528-4aff-8180-b97aa4c298a7" alt="Exoplanet by FA" style="width:50%; height:auto;">
-</p>
+
+![5  evolved antenna pso](https://github.com/user-attachments/assets/467ddf40-e37f-4295-a8bc-6b5cd954ab32)
 
 
 
