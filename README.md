@@ -25,8 +25,9 @@ In this foundational section, students will gain a clear understanding of the ba
 In this lecture, you’ll simulate protein folding using the Differential Evolution (DE) algorithm. You’ll learn how to represent proteins as amino acid chains in 3D space and optimize their positions to minimize total energy. By the end, you’ll be able to predict stable protein structures computationally and understand how misfolding can lead to diseases like Alzheimer’s and Parkinson’s.
 </p>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf1de796-a534-4523-8609-f105ceb8ae78" alt="Protein Folding" style="width:50%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/d486bc04-99c5-4a81-a389-06f820d6c677" alt="Protein Folding" style="width:50%; height:auto;">
 </p>
 
 
