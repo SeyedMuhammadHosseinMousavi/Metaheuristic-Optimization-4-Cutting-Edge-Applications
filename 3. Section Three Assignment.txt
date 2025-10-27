@@ -1,0 +1,31 @@
+Simulating Energy-Efficient Paths in Warped Space-Time
+
+Simulate a simplified space-time warping scenario using an objective function that minimizes energy costs from distance, bending, and warp-field distortion. Apply one iteration of the Firefly Algorithm to find the most efficient path from a start to an end point and analyze the impact of the warp.
+
+Assignment Instructions
+1. Define Your Scenario:
+Choose your own start and end coordinates.
+Create a warp_field vector to simulate space-time distortion (e.g., [0.3, -0.2]).
+Set a bending penalty (lambda_bend) between 0.1 and 1.0.
+
+2. Implement the Objective Function:
+
+Write a Python function that takes x, start, end, lambda_bend, and warp_field as inputs and returns the total energy cost.
+
+3. Simulate Firefly Movement:
+Generate a random population of positions in 2D space.
+Apply one iteration of the movement rule from the Firefly Algorithm.
+Track changes in positions and compute new objective values.
+
+4. Analysis:
+Print the best position found and its final energy cost.
+Briefly describe (2–3 lines) how the warp field influenced the optimizer's behavior.
+
+Q1. Explain how the warp field affects the optimization process in your simulation.
+
+Q2. What role does the bending penalty play in shaping the fireflies’ movement?
+
+Q3. If you were to run the simulation for multiple iterations, what behavior would you expect from the swarm and why?
+
+
+
