@@ -13,16 +13,22 @@ By the end of this course, you will have both the theoretical foundation and the
 
 ![Course Image Optimization](https://github.com/user-attachments/assets/ea1cafa1-a2b8-439d-af74-980376514a17)
 
-#### Section One : Section One - Basics of Optimization
+#### Section One - Section One - Basics of Optimization
 
 <p align="justify">
 In this foundational section, students will gain a clear understanding of the basics of optimization, including its definitions, importance, and core principles. We explore why optimization is essential across various fields, how it helps improve efficiency, reduce costs, and enhance performance, and what makes it a critical part of intelligent systems. Learners will be introduced to key concepts such as objective functions, critical points, local and global optima, convergence, and the balance between exploration and exploitation. The section also covers some metaheuristic algorithms, along with intuitive examples of how they work. Finally, students will learn about benchmark test functions used to evaluate optimization performance, setting the stage for deeper algorithmic exploration in future sections.
 </p>
 
-#### Section Two - Protein Folding by Differential Evolution Algorithm
+#### Section Two - Protein Folding by Differential Evolution (DE) Algorithm
 
 <p align="justify">
 In this lecture, you’ll simulate protein folding using the Differential Evolution (DE) algorithm. You’ll learn how to represent proteins as amino acid chains in 3D space and optimize their positions to minimize total energy. By the end, you’ll be able to predict stable protein structures computationally and understand how misfolding can lead to diseases like Alzheimer’s and Parkinson’s.
+</p>
+
+#### Section Three - Space-Time Warping by Firefly Algorithm (FA)
+
+<p align="justify">
+In this section, you’ll explore how the Firefly Algorithm (FA) can be used to solve a physics-inspired optimization problem based on space-time warping. You’ll learn how concepts such as curvature, bending effort, warp fields, and geodesics can be translated into a mathematical objective function that guides fireflies to find the most energy-efficient path through a distorted space. By simulating this warped environment, each firefly represents a potential solution that evolves over time using brightness-based attraction, distance decay, and controlled randomness. The algorithm works to minimize a total energy cost that includes warped distance, curvature penalties, traversal effort, and warp-field maintenance, ultimately finding a smooth, optimal path between two points. This section combines physical intuition with computational intelligence, showing how bio-inspired algorithms can solve problems modeled after the curvature and dynamics of space-time.
 </p>
 
 
