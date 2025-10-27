@@ -1,0 +1,15 @@
+Designing Life for an Alien World
+
+Analyze an exoplanet's conditions and define ideal trait values a lifeform would need to survive, explaining your choices based on the environment.
+
+Assignment Instructions
+1. Examine the given planetary parameters.
+2. For each of the five traits, suggest a value between 0.5 and 5.0 that would best fit that environment.
+3. Justify your choices briefly (1–2 sentences per trait).
+
+Q1. What genetic trait is most critical for survival on a high-radiation planet, and why?
+
+Q2. How should bone density be adapted for life on a planet with very strong gravity?
+
+Q3. Why is oxygen efficiency crucial for survival on a planet with a thin or low-oxygen atmosphere?
+
