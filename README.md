@@ -45,11 +45,11 @@ In this section, you’ll explore how the Firefly Algorithm (FA) can be used to 
 By the end of this section, students will understand how living organisms adapt to diverse exoplanetary environments. They will be able to explain how planetary factors like gravity, radiation, temperature, and atmosphere affect survival traits, and how these traits interact to determine overall fitness. Students will also learn to interpret and analyze adaptation outcomes, comparing evolved traits with environmental requirements to identify successful or failed survival strategies.
 </p>
 
-#### Section Five - Evolved Antenna Design by Particle Swarm Optimization (PSO) algorithm 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59eba43a-d528-4aff-8180-b97aa4c298a7" alt="Exoplanet by FA" style="width:50%; height:auto;">
 </p>
+
+#### Section Five - Evolved Antenna Design by Particle Swarm Optimization (PSO) algorithm 
 
 <p align="justify">
 This section explains how optimization algorithms can be applied to a real engineering problem: automatically shaping antennas to achieve high efficiency, minimal material use, and smooth geometry. Students learn how PSO mimics the collective intelligence of swarms to explore complex 3D design spaces that are difficult to optimize analytically. The section connects mathematical formulation with real implementation, showing how total length and bending smoothness can be combined into a single objective function and minimized iteratively through PSO. After completing this section, students will understand how to formulate and solve antenna design problems using metaheuristic methods, interpret convergence behavior, visualize optimized 3D geometries, and appreciate the power of swarm-based algorithms in electromagnetic and structural design optimization.
