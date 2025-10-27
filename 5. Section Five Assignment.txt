@@ -1,0 +1,17 @@
+Analyze and Explain PSO-Based Antenna Optimization
+
+In this assignment, you will reflect on the concepts behind optimizing antenna geometry using Particle Swarm Optimization (PSO).
+You’ll explain how the algorithm evaluates antenna designs, why smoothness and efficiency matter, and what advantages PSO provides over traditional optimization methods.
+
+Assignment Instructions
+In this assignment, you will reflect on the concepts behind optimizing antenna geometry using Particle Swarm Optimization (PSO).
+You’ll explain how the algorithm evaluates antenna designs, why smoothness and efficiency matter, and what advantages PSO provides over traditional optimization methods.
+
+Q1. Explain in your own words how the objective function helps PSO decide which antenna designs are better.
+(Hint: Think about total length and bending smoothness.)
+
+Q2. Why does the optimization process include both a “length” term and a “bending penalty”?
+(Hint: What happens if we remove one of them?)
+
+Q3. Describe one main reason Particle Swarm Optimization is preferred over manual or analytical antenna design approaches.
+(Hint: Consider complexity, flexibility, or convergence behavior.)
